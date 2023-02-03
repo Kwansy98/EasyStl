@@ -1,0 +1,8 @@
+﻿  Building 'EasyStl' with toolset 'WindowsKernelModeDriver10.0' and the 'Desktop' target platform.
+  drivermain.cpp
+  EasyStl.vcxproj -> D:\project\EasyStl\x64\Debug\EasyStl.sys
+  Done Adding Additional Store
+  Successfully signed: D:\project\EasyStl\x64\Debug\EasyStl.sys
+  
+  Inf2Cat task was skipped as there were no inf files to process
+  
